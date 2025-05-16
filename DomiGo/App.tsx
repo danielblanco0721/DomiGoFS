@@ -52,7 +52,7 @@ export default function App() {
         </View>
 
         <View style={{ marginTop: 30 }}>
-          <RoundedButton />
+          <RoundedButton text='LOGIN'/>
         </View>
 
         <View style={styles.formRegister}>
